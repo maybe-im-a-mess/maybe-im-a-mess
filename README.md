@@ -36,44 +36,29 @@ My path into AI has been far from linear, which shaped how I approach engineerin
 
 ### Technical Stack
 
-
 #### AI & Machine Learning
 
-- PyTorch • TensorFlow • scikit-learn  
-- Computer Vision (OpenCV) • HuggingFace  
-- LLM Integration (OpenAI, Azure OpenAI)  
-- Agentic AI workflows  
-- Reinforcement Learning  
-
+<p align="center">
+PyTorch • TensorFlow • scikit-learn • Computer Vision (OpenCV) • HuggingFace • LLM Integration (OpenAI, Azure OpenAI) • Agentic AI workflows • Reinforcement Learning  
+</p>
 
 #### Software Development
 
-- Python (FastAPI, Flask)  
-- JavaScript / TypeScript (Vue.js, Node.js)  
-- Java  
-- R (Shiny)  
-- SQL  
-- HTML / CSS  
-
+<p align="center">
+Python (FastAPI, Flask) • JavaScript / TypeScript (Vue.js, Node.js) • Java • R (Shiny) • SQL • HTML / CSS
+</p>
 
 #### Cloud & DevOps
 
-- AWS  
-- Docker  
-- Git  
-- REST APIs  
-- Linux (Ubuntu)  
-- CI/CD basics  
-
+<p align="center">
+AWS • Docker • Git • REST APIs • Linux (Ubuntu) • CI/CD basics  
+</p>
 
 #### Robotics & Engineering
 
-- ROS2  
-- Gazebo  
-- RViz  
-- Statistical modeling  
-- SAP Data Analytics  
-
+<p align="center">
+ROS2 • Gazebo • RViz • Statistical modeling • SAP Data Analytics  
+</p>
 
 <p align="center">
 ──────────────────── ⋆⋅☆⋅⋆ ────────────────────
