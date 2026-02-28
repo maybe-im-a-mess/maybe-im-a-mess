@@ -16,7 +16,7 @@ AI Engineer — machine learning, robotics, and applied intelligent systems
 
 ### About Me
 
-<img src="robot.jpg" align="right" width="230"/>
+<img src="robot.jpg" align="right" width="210"/>
 
 I’m an engineer with a background in **Artificial Intelligence and Computer Science**, focused on building **practical intelligent systems**.
 
