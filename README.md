@@ -1,16 +1,95 @@
-## Hi there 👋
+<h1 align="center">⋅˚₊‧ ୨୧ ‧₊˚ ⋅ Hi, I'm Olha ⋅˚₊‧ ୨୧ ‧₊˚ ⋅</h1>
 
-<!--
-**maybe-im-a-mess/maybe-im-a-mess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+AI Engineer — machine learning, robotics, and applied intelligent systems
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+   <a href="https://www.linkedin.com/in/olha-solodovnyk">LinkedIn</a> • 
+   <a href="mailto:olha.solodovnyk467@gmail.com">Email</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+──────────────────── ⋆⋅☆⋅⋆ ────────────────────
+</p>
+
+
+### About Me
+
+<img src="robot.jpg" align="right" width="230"/>
+
+I’m an engineer with a background in **Artificial Intelligence and Computer Science**, focused on building **practical intelligent systems**.
+
+- ᯓ★ Academic background in **dead languages and world literature**
+- ᯓ★ Later specialized in **Artificial Intelligence & Computer Science**
+- ᯓ★ Interested in **machine learning, robotics, and intelligent systems**
+- ᯓ★ Research experience in **bias-aware AI and model evaluation**
+- ᯓ★ I enjoy building **real systems — not only notebooks**
+
+My path into AI has been far from linear, which shaped how I approach engineering: structured, analytical, and curious about how things work beneath the surface.
+
+
+<p align="center">
+──────────────────── ⋆⋅☆⋅⋆ ────────────────────
+</p>
+
+
+### Technical Stack
+
+
+#### AI & Machine Learning
+
+- PyTorch • TensorFlow • scikit-learn  
+- Computer Vision (OpenCV) • HuggingFace  
+- LLM Integration (OpenAI, Azure OpenAI)  
+- Agentic AI workflows  
+- Reinforcement Learning  
+
+
+#### Software Development
+
+- Python (FastAPI, Flask)  
+- JavaScript / TypeScript (Vue.js, Node.js)  
+- Java  
+- R (Shiny)  
+- SQL  
+- HTML / CSS  
+
+
+#### Cloud & DevOps
+
+- AWS  
+- Docker  
+- Git  
+- REST APIs  
+- Linux (Ubuntu)  
+- CI/CD basics  
+
+
+#### Robotics & Engineering
+
+- ROS2  
+- Gazebo  
+- RViz  
+- Statistical modeling  
+- SAP Data Analytics  
+
+
+<p align="center">
+──────────────────── ⋆⋅☆⋅⋆ ────────────────────
+</p>
+
+
+### Projects
+
+<p align="center">
+Currently in the process of cleaning my repositories and university projects, as well as building new fun ones. 
+</p>
+<p align="center">
+Stay tuned ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧
+</p>
+
+
+<p align="center">
+──────────────────── ⋆⋅☆⋅⋆ ────────────────────
+</p>
