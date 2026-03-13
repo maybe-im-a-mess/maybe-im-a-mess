@@ -60,10 +60,19 @@ My path into AI has been far from linear, which shaped how I approach engineerin
 ### Projects
 
 <p align="center">
-Currently in the process of cleaning my repositories and university projects, as well as building new fun ones. 
+  <i>My profile is basically a storage of my university assignments, however, some of them are fun and worth checking out</i>
 </p>
+
+<br>
+
+* **[ADHDventure](https://github.com/maybe-im-a-mess/adhd_venture):** A 2D life simulation prototype built in Godot exploring the daily experience and mental load of ADHD.
+* **[Missile Command](https://github.com/maybe-im-a-mess/MissileCommand):** A retro Java clone of the classic Atari arcade defense game.
+
+<br>
+
 <p align="center">
-Stay tuned ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧
+  I am currently in the middle of spring cleaning my repositories and brewing up some exciting new projects.<br><br>
+  <b>Stay tuned ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧</b>
 </p>
 
 
